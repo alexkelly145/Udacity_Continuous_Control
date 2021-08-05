@@ -49,4 +49,4 @@ There are 4 files needed to run the code:
 
 Make sure all these files are in the same directory.
 
-Open the ddpg_main.ipynb notebook, the hyperparameters for the DDPG agent can be changed in cell 4.
+Open the ddpg_main.ipynb notebook, the hyperparameters for the DDPG agent can be changed in cell 4. When you have chosen the hyperparameters you are then ready to run and train the agent.
