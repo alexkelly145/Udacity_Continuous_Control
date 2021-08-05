@@ -1,5 +1,6 @@
 # Udacity_Continuous_Control
 Project 2: Continuous Control
+
 The environment I am using for this project is the Reacher environment created by Unity. 
 
 The environment contains 20 double jointed arms. The objective of the environment is to keep the hands of these arms in a target location for as many time steps as possible. 
