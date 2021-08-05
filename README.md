@@ -29,7 +29,9 @@ Setting up the environment
 3. Clone the Github repository 
 
 	git clone https://github.com/udacity/deep-reinforcement-learning.git
+	
 	cd deep-reinforcement-learning/python
+	
 	pip install .
 
 4. Create an IPython kernel for the drlnd environment
@@ -37,6 +39,10 @@ Setting up the environment
 	python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 5. Make sure drlnd is selected and drlnd appears in the top right corner instead of Python when inside the notebook
+
+6. Clone the Github repository
+	
+	git clone https://github.com/alexkelly145/Udacity_Continuous_Control.git
 
 Running the code
 
